@@ -60,10 +60,8 @@ The objective is to generate meaningful business insights using Python, SQL, and
 Retail-Sales-Analysis/
 │
 ├── Dataset/
-│   ├── Raw/
 │   └── Processed/
 │
-├── Documentation/
 ├── Images/
 ├── Notebooks/
 ├── PowerBI/
